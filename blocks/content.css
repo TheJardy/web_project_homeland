@@ -1,27 +1,27 @@
-.intro {
+.content {
   display: flex;
   justify-content: flex-start;
   flex-direction: column;
   flex-wrap: wrap;
 }
-.intro__content {
+.content__content {
   font-family: "Inter", sans-serif;
   max-width: 984px;
   height: auto;
 }
-.intro__title {
+.content__title {
   font-size: 54px;
   line-height: 58px;
   max-width: 830px;
   margin: 92px 0 40px;
 }
-.intro__text-top {
+.content__text-top {
   font-size: 24px;
   line-height: 34px;
   max-width: 738px;
   margin: 0;
 }
-.intro__text-middle {
+.content__text-middle {
   display: flex;
   justify-content: flex-end;
   font-size: 24px;
@@ -30,7 +30,7 @@
   margin: 0;
   margin-bottom: 32px;
 }
-.intro__text-bottom {
+.content__text-bottom {
   max-width: 722px;
   font-size: 16px;
   line-height: 163%;
